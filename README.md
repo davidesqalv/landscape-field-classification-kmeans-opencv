@@ -1,4 +1,4 @@
-# landscape-field-classification-opencv
+# Landscape image segmentation with K-means Clustering
 Classification and segmentation of a landscape section using K-Means and contour detection in OpenCV, on an image based on the Indian Pines Hyperspectral image segmentation dataset
 
 Original image:
